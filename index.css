@@ -153,23 +153,23 @@
 }
 
 .section.three {
-	background-image: url(/3.avif);
+	background-image: url(3.avif);
 }
 
 .section.four {
-	background-image: url(/4.avif);
+	background-image: url(4.avif);
 }
 
 .section.five {
-	background-image: url(/5.avif);
+	background-image: url(5.avif);
 }
 
 .section.six {
-	background-image: url(/6.avif);
+	background-image: url(6.avif);
 }
 
 .section.seven {
-	background-image: url(/7.avif);
+	background-image: url(7.avif);
 }
 
 .section__content {
